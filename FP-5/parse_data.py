@@ -7,5 +7,3 @@ def parse_data():
     return df
 
 
-# 学习成绩 -> 学习时长 simple
-# 分组：缺勤次数 学习好 学习差
